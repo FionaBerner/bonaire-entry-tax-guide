@@ -19,7 +19,7 @@ Visitors traveling to Bonaire are required to pay a mandatory tourism entry tax.
 This repository provides practical travel insights and destination‑specific guidance, starting with a clear explanation of how to complete the Bonaire entry tax before arrival. The goal is to help travelers prepare efficiently and enjoy smoother, stress‑free trips across the Caribbean.
 
 ## Repository topics
-[Travel Tips](travel-tips.md) • [Caribbean Travel](caribbean-travel.md) • [Bonaire Entry Tax](bonaire-entry-tax.md)
+[Travel Tips](travel-tips.md) • [Caribbean Travel](caribbean-travel.md) • [Bonaire Tax](bonaire-tax.md)
 
 
 
