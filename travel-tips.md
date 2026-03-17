@@ -11,4 +11,4 @@ This section collects practical advice to help travelers prepare efficiently and
 
 ## Related topics
 - [Caribbean Travel](caribbean-travel.md)
-- [Bonaire Entry Tax](bonaire-entry-tax.md)
+- [Bonaire Tax](bonaire-tax.md)
