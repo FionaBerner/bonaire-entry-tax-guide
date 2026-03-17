@@ -1,6 +1,6 @@
 # 🧭 Bonaire Tax Guide
 
-Bonaire requires all visitors to pay a mandatory tourism entry tax. Completing this step online before arrival helps you avoid long lines and speeds up the entry process at Flamingo International Airport.
+Bonaire requires all visitors to pay a mandatory [Bonaire tourism entry tax](https://bonairetax.com/). Completing this step online before arrival helps you avoid long lines and speeds up the entry process at Flamingo International Airport.
 
 ## Why paying early matters
 - Faster airport processing.
