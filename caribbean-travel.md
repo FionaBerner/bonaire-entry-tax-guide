@@ -15,4 +15,4 @@ The Caribbean offers diverse destinations, each with its own entry rules, cultur
 
 ## Related topics
 - [Travel Tips](travel-tips.md)
-- [Bonaire Entry Tax](bonaire-entry-tax.md)
+- [Bonaire Tax](bonaire-tax.md)
