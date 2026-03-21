@@ -13,6 +13,6 @@ The Caribbean offers diverse destinations, each with its own entry rules, cultur
 - Aruba and Curaçao have similar digital entry systems.
 - Some islands require health declarations or customs forms.
 
-## Related topics
+### Related topics:
 - [Travel Tips](travel-tips.md)
 - [Bonaire Tax](bonaire-tax.md)
